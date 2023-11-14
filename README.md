@@ -43,12 +43,12 @@ Bugs will be reported in the shared Bug Repository Google Drive Spreadsheet to b
 Each row represents a bug report.
 
 Columns in each report:
-Title
-Bug ID (automatically generated)
-Steps to Reproduce
-Expected Result
-Actual Result
-Severity/Priority - levels include:  green, yellow, and red.
+- Title
+- Bug ID (automatically generated)
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Severity/Priority - levels include:  green, yellow, and red.
 
 ## 1.7  Risk Management
 Present risks include:

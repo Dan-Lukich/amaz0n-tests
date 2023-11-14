@@ -52,8 +52,8 @@ Severity/Priority - levels include:  green, yellow, and red.
 
 ## 1.7  Risk Management
 Present risks include:
-Chance of extreme weather disrupting development.
-Stakeholders pushing up the deadline.
+- Chance of extreme weather disrupting development.
+- Stakeholders pushing up the deadline.
 
 ## 1.8  Exit Parameters
 This testing cycle will be considered complete once 95 percent of any red-level severity bugs are eliminated.

@@ -5,9 +5,9 @@ The behaviors will be tested in a mix of Selenium IDE and Selenium WebDriver, to
 
 ## 1.1  Scope
 Behaviors that will be tested:
-Search and providing an “Overall Pick” item
-Login
-Logout
+- Search and providing an “Overall Pick” item
+- Login
+- Logout
 
 ## 1.2  Schedule
 This project will be initiated on November 10th, 2023 and completed on November 11th, 2023.

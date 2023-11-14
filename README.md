@@ -17,19 +17,20 @@ The tester Daniel Lukich will spend his weekend afternoons on this project for t
 
 ## 1.4  Environment
 Browser:  
-Chrome Version 119.0.6045.124 (Official Build) (64-bit)
+- Chrome Version 119.0.6045.124 (Official Build) (64-bit)
 
 Browser Automation:  
-Selenium IDE 4.0.0-alpha.56
-Selenium WebDriver, selenium-java 4.15.0
-LastPass 4.123.0
+- Selenium IDE 4.0.0-alpha.56
+- Selenium WebDriver, selenium-java 4.15.0
+- LastPass 4.123.0
+
 IDE:  
-IntelliJ IDEA 2023.2.2
+- IntelliJ IDEA 2023.2.2
 
 Language(s) and Dependencies:  
-Java 17 (JDK 17.0.8.7)
-TestNG (version 7.7.0)
-Cucumber (version 7.13.0)
+- Java 17 (JDK 17.0.8.7)
+- TestNG (version 7.7.0)
+- Cucumber (version 7.13.0)
 
 ## 1.5  Tools
 Selenium IDE and Selenium WebDriver will be used to automate the browser to test the behaviors.

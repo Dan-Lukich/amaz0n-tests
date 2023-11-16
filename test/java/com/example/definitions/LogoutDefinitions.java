@@ -87,7 +87,7 @@ public class LogoutDefinitions {
     }
 
     @After
-    public void teardown() {
+    public void quit() {
 
         driver.quit();
     }

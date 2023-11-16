@@ -4,7 +4,6 @@ Feature: Logout of Amazon Website
     Given User is on Amazon homepage "https://www.amazon.com"
     Given The user is logged in, evidenced by the account greeting "Hello, Daniel"
 
-  @ValidCredentials
   Scenario: Logout
 
     When User hovers over the Accounts & Lists tab and clicks Sign Out

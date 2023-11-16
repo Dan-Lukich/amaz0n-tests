@@ -1,7 +1,7 @@
 # 1.0  Amaz0n Homepage Test Plan
 We will apply a behavior-driven development (BDD) approach.
 
-The behaviors will be tested in a mix of Selenium IDE and Selenium WebDriver, to facilitate a learning experience.
+The behaviors will be tested in a mix of Selenium IDE and Selenium WebDriver to facilitate a learning experience.
 
 ## 1.1  Scope
 Behaviors that will be tested:

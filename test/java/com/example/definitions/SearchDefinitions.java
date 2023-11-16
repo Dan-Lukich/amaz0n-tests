@@ -55,7 +55,6 @@ public class SearchDefinitions {
 
         String welcomeUserString = driver.findElement(By.xpath("//*[@id=\"B0012SNLJG-amazons-choice-label\"]/span/div/span[1]")).getText();
 
-        //Verify new page - HomePage
         Assert.assertEquals(welcomeUserString, "Overall Pick");
     }
 

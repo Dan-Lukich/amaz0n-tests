@@ -55,7 +55,7 @@ public class LogoutDefinitions {
     }
 
 
-    @When("User hovers over, the Accounts & Lists tab and clicks Sign Out")
+    @When("User hovers over the Accounts & Lists tab and clicks Sign Out")
     public void logoutTest() {
 
         // login to application

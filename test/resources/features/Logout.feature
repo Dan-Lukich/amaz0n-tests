@@ -7,6 +7,6 @@ Feature: Logout of Amazon Website
   @ValidCredentials
   Scenario: Logout
 
-    When User hovers over, the Accounts & Lists tab and clicks Sign Out
+    When User hovers over the Accounts & Lists tab and clicks Sign Out
     Then User should be able to logout successfully
 

@@ -59,7 +59,7 @@ public class SearchDefinitions {
     }
 
     @After
-    public void teardown() {
+    public void quit() {
 
         driver.quit();
     }

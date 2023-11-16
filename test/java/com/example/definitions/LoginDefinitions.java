@@ -61,7 +61,7 @@ public class LoginDefinitions {
     }
 
     @After
-    public void teardown() {
+    public void quit() {
 
         driver.quit();
     }
